@@ -1,4 +1,4 @@
-import { CreateProduct } from './Example1';
+import { CreateProduct } from './Example';
 
 describe('ProductAbstractFactory', () => {
   test('create a car', () => {

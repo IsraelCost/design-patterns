@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "nodemon src/**/*.ts",
+    "dev": "nodemon src/index.ts",
     "test": "jest --watch"
   },
   "devDependencies": {
